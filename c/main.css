@@ -1,0 +1,13 @@
+dt {
+    font-style: italic;
+}
+
+.house{
+    font-family: Luminari, fantasy;
+}
+
+.folks{
+    margin: 1rem;
+    font-family: Latos;
+    color: white;
+}
